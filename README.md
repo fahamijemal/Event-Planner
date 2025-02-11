@@ -40,7 +40,7 @@ Welcome to **Event Planner**! This app helps you organize your events, from birt
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/fahamijemal/content-rating.git
+    git clone https://github.com/fahamijemal/Event-Planner.git
     ```
 
 2. Install dependencies:
